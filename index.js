@@ -7,7 +7,7 @@ const app = express()
 app.use (express.json())
 
 // Conecta a aplicação ao banco de dados 
-mongoose.connect('')
+mongoose.connect('mongodb+srv://<username>:<password>@cluster0.20kgco5.mongodb.net/?appName=Cluster0')
 
 /* Informa que a conexão foi bem sucedida com o método .then e mostra no console, caso ocorra um erro,
 informa qual o erro com o parametro "error" na função dentro do método .catch e mostra no console */
