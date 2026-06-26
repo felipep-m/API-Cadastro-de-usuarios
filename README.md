@@ -1,3 +1,3 @@
-# API simples de cadastro de usuário com MongoDB
+# API CRUD com Banco de dados integrado 
 
-API de cadastro de usuários com banco de dados e [Front-end](https://github.com/felipep-m/Frontend-Cadastro-de-usuarios)
+API de cadastro de usuários integrado com banco de dados NoSQL (MongoDB) e [Front-end](https://github.com/felipep-m/Frontend-Cadastro-de-usuarios)
